@@ -56,7 +56,7 @@
   }
 
   :global(body) {
-    background-image: url("photo1.jpg");
+    background-image: url("../photo1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
