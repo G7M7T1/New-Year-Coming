@@ -4,7 +4,7 @@
   let m = 0;
   let s = 0;
 
-  const newYearTime = new Date(`Jan 01 2022 00:00:00 GMT-0400`);
+  const newYearTime = new Date(`Jan 01 2023 00:00:00 GMT-0400`);
   function updateCountdown() {
     const currentTime = new Date();
     const diff = newYearTime - currentTime;
